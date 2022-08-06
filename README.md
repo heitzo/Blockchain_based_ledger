@@ -53,5 +53,9 @@ Test your complete PyChain ledger and user interface by running your Streamlit a
 In the terminal, navigate to the project folder where you've coded the Challenge.
 In the terminal, run the Streamlit application by using streamlit run pychain.py.
 Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
+![Screen Shot 2022-08-06 at 1 38 59 PM](https://user-images.githubusercontent.com/101524382/183265604-f8c33933-97a4-429b-8b9c-1be15f36eccf.png)
+![Screen Shot 2022-08-06 at 1 38 43 PM](https://user-images.githubusercontent.com/101524382/183265606-9d63373c-95a0-4dd9-8bc8-86b8b2d5671d.png)
+![Screen Shot 2022-08-06 at 1 37 14 PM](https://user-images.githubusercontent.com/101524382/183265607-c00afc06-3a3e-4f6c-b0d6-860fa85d059b.png)
+![Screen Shot 2022-08-06 at 12 41 15 PM](https://user-images.githubusercontent.com/101524382/183265608-b75f74f0-12c5-4efe-af03-57259fe1765f.png)
 
 
